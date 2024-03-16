@@ -18,10 +18,6 @@
 
 	// Texture Settings
 	"FFlagMSRefactor5": "false",
-	"FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}", // Limits Textures to Glass.
-	"FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}", // Limits Textures to Glass.
-	"FStringTerrainMaterialTablePre2022": "", // Disables Terrain Textures (Pre-2022).
-	"FStringTerrainMaterialTable2022": "", // Disables Terrain Textures (2022).
 
 	// Sky and Visual Effects Settings
 	"FFlagDebugSkyGray": true, // Activates Gray Sky.
